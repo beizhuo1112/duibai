@@ -2,7 +2,15 @@
 
 Windows x64 本地人物配音与对白制作工具。3.6 版采用软件与模型分别下载，模型准备好后在本机离线生成，不调用云端配音服务。
 
-## 下载 3.6
+## 联网安装（推荐）
+
+[下载对白 3.6 安装器](https://github.com/beizhuo1112/duibai/releases/download/v3.6.0/Duibai-3.6-Windows-x64-Setup.exe)（约 12.7 MiB）。选择安装目录和原精度／8 位／4 位模型，点击安装，自动下载、校验、解压并创建快捷方式，无需手动合并分卷。安装后直接离线使用所选模型。
+
+软件加模型总下载约 5.36～6.25 GiB；安装向导显示所选方案的下载量和磁盘需求。支持断点续传、失败重试和取消安装。下载需要能够访问 GitHub；无需登录账号。原精度支持 CPU／NVIDIA，8 位与 4 位需要兼容的 NVIDIA GPU，量化不保证相同音质或更快生成。
+
+[安装说明](https://github.com/beizhuo1112/duibai/releases/download/v3.6.0/INSTALLER-INSTRUCTIONS.md) · [安装器源码](https://github.com/beizhuo1112/duibai/releases/download/v3.6.0/Duibai-3.6-Installer-Source.zip)
+
+## 手动下载 / 离线准备 3.6
 
 [打开正式下载页](https://github.com/beizhuo1112/duibai/releases/tag/v3.6.0)。下载软件包，再选择一种模型包：原精度、8 位或 4 位保守量化。
 
