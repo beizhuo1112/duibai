@@ -1,5 +1,12 @@
 # 对白 Duibai
 
+## 2 GB 轻量试验版
+
+[下载轻量安装器](https://github.com/beizhuo1112/duibai/releases/download/v3.6-lite-preview.1/Duibai-3.6-Lite-Preview-Setup.exe) · [完整便携包与源码](https://github.com/beizhuo1112/duibai/releases/tag/v3.6-lite-preview.1)
+
+独立预发布版：程序、两套模型和卸载器的初始文件大小约 1.992 GB，本机磁盘分配约 1.997 GB；完整包下载约 1.552 GB。安装后离线配音。音质与原版有差异，保留当前七种声线和调音功能；原正式版及其模型包继续保留。用户生成的数据另行增长，详见预发布说明。
+
+
 Windows x64 本地人物配音与对白制作工具。3.6 版采用软件与模型分别下载，模型准备好后在本机离线生成，不调用云端配音服务。
 
 ## 联网安装（推荐）
